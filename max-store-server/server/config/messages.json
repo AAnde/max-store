@@ -1,0 +1,17 @@
+{
+    "CODE_STATUS_OK" : 200,
+    "CODE_STATUS_SERVERERROR" : 500,
+    "CODE_BAD_REQUEST" : 400,
+    "MSG_STATUS_SAVED" : "saved successfully",
+    "MSG_STATUS_SERVERERROR" : "internal server error",
+    "MSG_MANDATORY_FIELDS_MISSED" : "mandatory fields are missed",
+    "MSG_DATA_FOUND":"data found",
+    "MSG_NO_DATA_FOUND" : "no data found",
+    "MSG_DELETED" : "deleted successfully",
+    "MSG_DATA_UPDATED" : "updated successfully",
+    "MSG_OPERATION_FAILED" : "operation failed",
+    "MSG_EMAIL_EXISTS" : "email already exist",
+    "MSG_INVALID_CREDENTIALS" : "invalid credentials",
+    "MSG_ORDER_PLACED" : "order placed successfully",
+    "MSG_PASSWORD_EMPTY" : "password should not be empty"
+}
